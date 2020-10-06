@@ -16,3 +16,36 @@
 //         		console.log(`BINGO!`);
 //         		break;
 // }
+
+// Bài turtle:
+// hình 1: lt(30); fd(50); rt(60); fd(50); rt(120); fd(50); rt(60); fd(50);
+//         lt(60); fd(50); lt(120); fd(50); lt(60); fd(50);
+//         rt(90); fd(50); rt(60); fd(50); rt(120); fd(50); rt(60); fd(50);
+//         lt(60); fd(50); lt(120); fd(50); lt(60); fd(50);
+// hình 2: lt(30); fd(50); rt(60); fd(50); rt(60); fd(50); rt(60); fd(50); rt(60); fd(50); rt(60); fd(50);
+//         rt(72); fd(50); rt(72); fd(50); rt(72); fd(50); rt(72); fd(50);
+//         rt(162); fd(50); lt(90); fd(50); lt(90); fd(50);
+//         lt(150); fd(50); rt(120); fd(50);
+
+
+// Bài BMI:
+// let a = Number(prompt(`Nhập cân nặng:`));
+// console.log(`Bạn nặng ${a} kg.`);
+// let b = Number(prompt(`Nhập chiều cao:`));
+// console.log(`Bạn cao ${b} cm.`);
+// let c = b/100
+// let d = a/(c*c);
+// if (d < 16) {
+//     console.log(`Bạn thiếu cân trầm trọng.`);
+// } else if (d >= 16 && d < 18.5) {
+//     console.log(`Bạn thiếu cân.`);
+// } else if (d >= 18.5 && d < 25) {
+//     console.log(`Bạn đủ cân.`);
+// } else if (d >= 25 && d < 30) {
+//     console.log(`Bạn thừa cân`);
+// } else {
+//     console.log(`Bạn béo phì`);
+// }
+
+// Bài nhân:
+// Chưa làm.
